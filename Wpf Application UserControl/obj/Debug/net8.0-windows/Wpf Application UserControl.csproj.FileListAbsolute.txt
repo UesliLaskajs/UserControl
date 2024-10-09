@@ -1,0 +1,24 @@
+C:\Users\User\source\repos\Wpf Application UserControl\Wpf Application UserControl\bin\Debug\net8.0-windows\Wpf Application UserControl.exe
+C:\Users\User\source\repos\Wpf Application UserControl\Wpf Application UserControl\bin\Debug\net8.0-windows\Wpf Application UserControl.deps.json
+C:\Users\User\source\repos\Wpf Application UserControl\Wpf Application UserControl\bin\Debug\net8.0-windows\Wpf Application UserControl.runtimeconfig.json
+C:\Users\User\source\repos\Wpf Application UserControl\Wpf Application UserControl\bin\Debug\net8.0-windows\Wpf Application UserControl.dll
+C:\Users\User\source\repos\Wpf Application UserControl\Wpf Application UserControl\bin\Debug\net8.0-windows\Wpf Application UserControl.pdb
+C:\Users\User\source\repos\Wpf Application UserControl\Wpf Application UserControl\obj\Debug\net8.0-windows\LoginView.g.cs
+C:\Users\User\source\repos\Wpf Application UserControl\Wpf Application UserControl\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\User\source\repos\Wpf Application UserControl\Wpf Application UserControl\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\User\source\repos\Wpf Application UserControl\Wpf Application UserControl\obj\Debug\net8.0-windows\Wpf Application UserControl_MarkupCompile.cache
+C:\Users\User\source\repos\Wpf Application UserControl\Wpf Application UserControl\obj\Debug\net8.0-windows\Wpf Application UserControl_MarkupCompile.lref
+C:\Users\User\source\repos\Wpf Application UserControl\Wpf Application UserControl\obj\Debug\net8.0-windows\LoginView.baml
+C:\Users\User\source\repos\Wpf Application UserControl\Wpf Application UserControl\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\User\source\repos\Wpf Application UserControl\Wpf Application UserControl\obj\Debug\net8.0-windows\Wpf Application UserControl.g.resources
+C:\Users\User\source\repos\Wpf Application UserControl\Wpf Application UserControl\obj\Debug\net8.0-windows\Wpf Application UserControl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Wpf Application UserControl\Wpf Application UserControl\obj\Debug\net8.0-windows\Wpf Application UserControl.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Wpf Application UserControl\Wpf Application UserControl\obj\Debug\net8.0-windows\Wpf Application UserControl.AssemblyInfo.cs
+C:\Users\User\source\repos\Wpf Application UserControl\Wpf Application UserControl\obj\Debug\net8.0-windows\Wpf Application UserControl.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Wpf Application UserControl\Wpf Application UserControl\obj\Debug\net8.0-windows\Wpf Application UserControl.dll
+C:\Users\User\source\repos\Wpf Application UserControl\Wpf Application UserControl\obj\Debug\net8.0-windows\refint\Wpf Application UserControl.dll
+C:\Users\User\source\repos\Wpf Application UserControl\Wpf Application UserControl\obj\Debug\net8.0-windows\Wpf Application UserControl.pdb
+C:\Users\User\source\repos\Wpf Application UserControl\Wpf Application UserControl\obj\Debug\net8.0-windows\Wpf Application UserControl.genruntimeconfig.cache
+C:\Users\User\source\repos\Wpf Application UserControl\Wpf Application UserControl\obj\Debug\net8.0-windows\ref\Wpf Application UserControl.dll
+C:\Users\User\source\repos\Wpf Application UserControl\Wpf Application UserControl\obj\Debug\net8.0-windows\UserInvoice.g.cs
+C:\Users\User\source\repos\Wpf Application UserControl\Wpf Application UserControl\obj\Debug\net8.0-windows\UserInvoice.baml
